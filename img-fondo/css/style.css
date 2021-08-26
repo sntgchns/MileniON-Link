@@ -1,0 +1,8 @@
+.box1, .box2 {
+  	width:250px;
+    height:250px;
+    background: red;
+    margin: auto;
+    border: 10px solid blue;
+    box-sizing: content-box;
+}

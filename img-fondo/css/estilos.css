@@ -1,0 +1,11 @@
+.image-fondo {
+    background-image: url("../img/verde-1200x839.png");
+}
+.cabecera{
+  color: #fff;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  vertical-align: middle;
+  text-shadow: #111 0px 0px 10px;
+}
